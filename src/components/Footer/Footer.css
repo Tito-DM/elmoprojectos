@@ -1,0 +1,19 @@
+.icon {
+  display: block;
+}
+/* .footer-fix{
+  margin-top: 600px !important;
+} */
+
+.contact-text {
+  font-weight: 400;
+  letter-spacing: 2.5px;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .page-footer {
+    padding: 10px;
+  }
+}
+/*# sourceMappingURL=Footer.css.map */

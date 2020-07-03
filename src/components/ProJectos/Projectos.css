@@ -1,0 +1,26 @@
+.size {
+  width: 300px;
+}
+
+.text-slide {
+  font-weight: 300;
+  letter-spacing: 1.4;
+  display: inline-block;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.casa-text {
+  margin-top: 1rem;
+}
+
+.backg {
+  background-color: whitesmoke;
+}
+
+@media (max-width: 480px) and (min-width: 320px) {
+  .container {
+    margin: 0 auto !important;
+  }
+}
+/*# sourceMappingURL=Projectos.css.map */

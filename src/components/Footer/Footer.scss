@@ -1,0 +1,18 @@
+.icon {
+	display: block;
+}
+.espaco{
+	height: 210px;
+}
+
+.contact-text {
+	font-weight: 400;
+	letter-spacing: 2.5px;
+	margin-bottom: 10px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+	.page-footer {
+		padding: 10px;
+	}
+}

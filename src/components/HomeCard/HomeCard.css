@@ -1,0 +1,52 @@
+.home-cards {
+  display: -ms-grid;
+  display: grid;
+  color: black;
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
+  margin: 50px 0;
+  grid-gap: 20px;
+}
+
+.home-cards img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.home-cards h3 {
+  margin-bottom: 5px;
+  font-size: 20px;
+  letter-spacing: 2.5px;
+  font-weight: 400;
+}
+
+.home-cards a {
+  display: inline-block;
+  padding-top: 10px;
+  font-size: 8px;
+  color: #0067b8;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.home-cards a:hover i {
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 425px) {
+  .home-cards {
+    margin-left: 24px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-flow: column;
+            flex-flow: column;
+    color: black;
+  }
+  .home-cards img {
+    margin-bottom: -30px;
+  }
+}
+/*# sourceMappingURL=HomeCard.css.map */
