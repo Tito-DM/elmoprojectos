@@ -10,7 +10,7 @@ function App(props) {
 	return (
 		<Router>
 			<Switch>
-				<Route exact path="/elmoprojectos">
+				<Route exact path="/">
 					<Home />
 				</Route>
 				<Route path="/seuprojecto">
