@@ -4,7 +4,6 @@ const Projectos = ({ img, title, projecto }) => {
 	return (
 		<Fragment>
 			<div className="container">
-				<h6 className="text-slide cyan-text">Projectos a Venda</h6>
 				<div className="col s12 m7">
 					<div className="card horizontal medium">
 						<div className="card-image">
@@ -15,14 +14,14 @@ const Projectos = ({ img, title, projecto }) => {
 								<span className="card-title activator grey-text text-darken-4">
 									{title}
 								</span>
-								Tipologia: T3
+								<small>Tipologia: T3</small>
 								<br />
-								Modelo:
+								<small>Casa de Banhos: 3</small>
 								<br />
-								Garagem:
+								<small>Garagem: Sim</small>
 							</div>
 							<div className="card-action">
-								<a href="!#">This is a link</a>
+								<a href="!#">Interesado</a>
 							</div>
 						</div>
 					</div>

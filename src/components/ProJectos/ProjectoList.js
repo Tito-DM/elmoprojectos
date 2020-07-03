@@ -5,7 +5,6 @@ import Img3 from "../../asset/img/House1.jpg";
 import NavBar from "../NavBar/NavBar";
 import FlootB from "../FloatButtom/FloatButtom";
 import Footer from "../Footer/Footer";
-import ImageGallery from "../ImageGallery/ImageGallery";
 import Pagination from "../Pagination/Pagination";
 
 const ProjectoList = () => {
@@ -14,7 +13,7 @@ const ProjectoList = () => {
 
 	const [cards] = useState([
 		{
-			title: "Card Title1",
+			title: "Casa",
 			id: "1",
 			img: Img3,
 			description:
@@ -22,7 +21,7 @@ const ProjectoList = () => {
 		},
 
 		{
-			title: "Card Title",
+			title: "Restourante",
 			id: "2",
 			img: Img3,
 			description:
@@ -30,7 +29,7 @@ const ProjectoList = () => {
 		},
 
 		{
-			title: "Card Title",
+			title: "Casa",
 			id: "3",
 			img: Img3,
 			description:
@@ -81,11 +80,6 @@ const ProjectoList = () => {
 			{proj}
 			<div className="container">
 			<Pagination />
-			</div>
-			
-			<div className="container">
-				<h6 className="text-slide cyan-text">Projectos Realizados</h6>
-				<ImageGallery />
 			</div>
 			<FlootB />
 			<Footer />

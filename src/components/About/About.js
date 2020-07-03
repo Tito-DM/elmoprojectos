@@ -31,6 +31,7 @@ const AboutUs = () => {
 						<div></div>
 					</div>
 				</div>
+				<div className="espaco"></div>
 				<div className="div-space"></div>
 				<FloatB />
 				<Footer />
