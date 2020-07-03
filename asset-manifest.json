@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/elmoprojectos/static/css/main.cd38f3eb.chunk.css",
+    "main.js": "/elmoprojectos/static/js/main.2b5c48ef.chunk.js",
+    "main.js.map": "/elmoprojectos/static/js/main.2b5c48ef.chunk.js.map",
+    "runtime-main.js": "/elmoprojectos/static/js/runtime-main.47b4b538.js",
+    "runtime-main.js.map": "/elmoprojectos/static/js/runtime-main.47b4b538.js.map",
+    "static/css/2.36020323.chunk.css": "/elmoprojectos/static/css/2.36020323.chunk.css",
+    "static/js/2.ecadb93e.chunk.js": "/elmoprojectos/static/js/2.ecadb93e.chunk.js",
+    "static/js/2.ecadb93e.chunk.js.map": "/elmoprojectos/static/js/2.ecadb93e.chunk.js.map",
+    "index.html": "/elmoprojectos/index.html",
+    "precache-manifest.4396c648327662f37f2249ac2efa9583.js": "/elmoprojectos/precache-manifest.4396c648327662f37f2249ac2efa9583.js",
+    "service-worker.js": "/elmoprojectos/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/elmoprojectos/static/css/2.36020323.chunk.css.map",
+    "static/css/main.cd38f3eb.chunk.css.map": "/elmoprojectos/static/css/main.cd38f3eb.chunk.css.map",
+    "static/js/2.ecadb93e.chunk.js.LICENSE.txt": "/elmoprojectos/static/js/2.ecadb93e.chunk.js.LICENSE.txt",
+    "static/media/Condominio.jpg": "/elmoprojectos/static/media/Condominio.6f0a1496.jpg",
+    "static/media/House1.jpg": "/elmoprojectos/static/media/House1.93139695.jpg",
+    "static/media/casa.jpg": "/elmoprojectos/static/media/casa.47b2af04.jpg",
+    "static/media/comercio.jpg": "/elmoprojectos/static/media/comercio.7916ec80.jpg",
+    "static/media/decoracao.jpg": "/elmoprojectos/static/media/decoracao.8083a75a.jpg",
+    "static/media/escritorio.PNG": "/elmoprojectos/static/media/escritorio.6b51a02a.PNG",
+    "static/media/img1.jpg": "/elmoprojectos/static/media/img1.085eb6db.jpg",
+    "static/media/img2.jpg": "/elmoprojectos/static/media/img2.3eedb514.jpg",
+    "static/media/img3.jpg": "/elmoprojectos/static/media/img3.4a3e8140.jpg",
+    "static/media/img4.jpg": "/elmoprojectos/static/media/img4.d7a74878.jpg",
+    "static/media/img5.jpg": "/elmoprojectos/static/media/img5.7be6d249.jpg",
+    "static/media/logo.jpg": "/elmoprojectos/static/media/logo.deb92bde.jpg",
+    "static/media/pic.jpg": "/elmoprojectos/static/media/pic.46a3b4e3.jpg",
+    "static/media/resort.jpg": "/elmoprojectos/static/media/resort.6d6dfd12.jpg",
+    "static/media/SlideShow.scss": "/elmoprojectos/static/media/slide3.7916ec80.jpg",
+    "static/media/slideImg.jpg": "/elmoprojectos/static/media/slideImg.c672952c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47b4b538.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.ecadb93e.chunk.js",
+    "static/css/main.cd38f3eb.chunk.css",
+    "static/js/main.2b5c48ef.chunk.js"
+  ]
+}
