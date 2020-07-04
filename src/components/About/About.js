@@ -34,19 +34,11 @@ const AboutUs = () => {
 				
 				</p>
 				<hgroup className="heading">
-				<h5  >Crescer no BEM FAZER, para dar um BEM ESTAR</h5><br/>
+				<h6  >CRESCER No BEM FAZER, PARA DAR UM BEM ESTAR</h6><br/>
 				&amp;
-					<h5>BEM VIVER  aos nossos clientes.</h5>
+					<h6>BEM VIVER  AOS NOSSOS CLIENTES.</h6>
 				</hgroup>
 				
-						{/* <div className="contact_text">
-							<p>
-								Formado em Arquitecura na Universidade Agostinho net, realizou
-								varios projecto para differentes categorias nomiada mente de
-								casa, estapocos de lazer e outros
-							</p>
-						</div> */}
-						
 				</div>
 
 				
