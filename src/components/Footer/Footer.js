@@ -18,7 +18,7 @@ const Footer = () => {
 								<div className="col s1">
 									<i className=" material-icons icon">local_phone</i>
 								</div>
-								<div className="col s1"> +2449234567</div>
+								<div className="col s1"> 22200000</div>
 							</div>
 
 							<p className="grey-text text-lighten-4">

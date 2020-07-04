@@ -11,7 +11,7 @@ const HomeCard1 = ({ img, title, description }) => {
 				</Link>
 				<p>{description}</p>
 				<Link to={`/projectolist/${title}`}>
-					Learn More <i className=" material-icons">chevron_right</i>
+					Mais... <i className=" material-icons">chevron_right</i>
 				</Link>
 			</div>
 		</Fragment>
