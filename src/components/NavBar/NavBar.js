@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect,Fragment } from "react";
 import "materialize-css/dist/css/materialize.min.css";
 import "./NavBar.scss";
 import M from "materialize-css";
@@ -9,6 +9,8 @@ const NavBar = () => {
 		M.Sidenav.init(elems);
 	}, []);
 	return (
+		
+		<Fragment>
 		<div className="navbar-fixed">
 			<nav>
 				<div className="nav-wrapper cyan darken-3 ">
@@ -30,18 +32,27 @@ const NavBar = () => {
 						<li>
 							<Link to="/about">Sobre Nos</Link>
 						</li>
-						
 					</ul>
 				</div>
-			</nav>
-			
-			<ul id="slide-out" className="sidenav">
-			<a href="https://lookmovie.ag/">test</a>
-				
-			
-			</ul>
-			
+			</nav>	
 		</div>
+		
+		<ul id="slide-out" className="sidenav ambar">
+			<li>
+			<Link to="/" className="amber darken-2 fix-margin">
+								Home
+			</Link>
+			</li>
+			<div className="divider"></div>
+			<li>
+				<Link to="/seuprojecto">Seu Projecto</Link>
+			</li>
+			<div className="divider"></div>
+			<li>
+				<Link to="/about">Sobre Nos</Link>
+			</li>
+		</ul>
+		</Fragment>
 	);
 };
 
