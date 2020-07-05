@@ -9,7 +9,7 @@ const HomeCard2 = ({ img, title, description }) => {
 				<h3 className="text">{title}</h3>
 				<p>{description}</p>
 				<Link to={`/projectolist/${title}`}>
-					Learn More <i className=" material-icons">chevron_right</i>
+					Mais... <i className=" material-icons">chevron_right</i>
 				</Link>
 			</div>
 		</Fragment>

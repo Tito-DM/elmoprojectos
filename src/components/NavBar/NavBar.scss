@@ -27,18 +27,11 @@
     margin-top: 5px !important;
 }
 
-@media only screen and (max-width: 425px){
+@media only screen and (max-width: 768px){
     .logo{
-        &-img{
-            width: 240px;
-            height: 91px;
-        }
-
-        &-direction{
-            top: -35px;
-            left: 32% !important;
-        }
-    
+    width: 120px !important;
+    height: 55px !important;
+    /* border-radius: 50%; */
 
     }
 }

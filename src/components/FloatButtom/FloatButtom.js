@@ -11,7 +11,7 @@ const FloatButtom = () => {
 	return (
 		<div className="fixed-action-btn ">
 			<Link to='#' className="btn-floating btn-large red pulse">
-				<i className="large material-icons">mode_edit</i>
+				<i className="large material-icons">add</i>
 			</Link>
 			<ul>
 				<li>
@@ -25,9 +25,9 @@ const FloatButtom = () => {
 					</Link>
 				</li>
 				<li>
-					<Link to='https://react-cn.github.io/react/tips/if-else-in-JSX.html' className="btn-floating blue">
+					<a href='https://www.facebook.com/elmoprojectos.arqdesign' className="btn-floating blue"  target="_blank">
 						<i className="fab fa-facebook-f"></i>
-					</Link>
+					</a>
 				</li>
 			</ul>
 		</div>
