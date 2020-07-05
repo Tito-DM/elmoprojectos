@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "711467a03721ee082000abd1208a2141",
+    "revision": "7641cf37f249f5d4df2734d1e7966981",
     "url": "/elmoprojectos/index.html"
   },
   {
-    "revision": "0171f69087489f633f9b",
+    "revision": "fefc04d1591593408b10",
     "url": "/elmoprojectos/static/css/2.36020323.chunk.css"
   },
   {
-    "revision": "10277a77ea3d00947891",
-    "url": "/elmoprojectos/static/css/main.2739ba7f.chunk.css"
+    "revision": "e60b0c9aa171e848466f",
+    "url": "/elmoprojectos/static/css/main.576677b3.chunk.css"
   },
   {
-    "revision": "0171f69087489f633f9b",
-    "url": "/elmoprojectos/static/js/2.ecadb93e.chunk.js"
+    "revision": "fefc04d1591593408b10",
+    "url": "/elmoprojectos/static/js/2.dddc46f8.chunk.js"
   },
   {
     "revision": "b013b7cd7a2da92c16a2d9932cfeb76c",
-    "url": "/elmoprojectos/static/js/2.ecadb93e.chunk.js.LICENSE.txt"
+    "url": "/elmoprojectos/static/js/2.dddc46f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10277a77ea3d00947891",
-    "url": "/elmoprojectos/static/js/main.b0633241.chunk.js"
+    "revision": "e60b0c9aa171e848466f",
+    "url": "/elmoprojectos/static/js/main.de703587.chunk.js"
   },
   {
     "revision": "1d61e770495efc165eaa",
@@ -70,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7be6d249f4b5a556d00b801fba3ce353",
     "url": "/elmoprojectos/static/media/img5.7be6d249.jpg"
-  },
-  {
-    "revision": "deb92bdedda7087f5ad41c7c951e774b",
-    "url": "/elmoprojectos/static/media/logo.deb92bde.jpg"
   },
   {
     "revision": "46a3b4e36d4baaffe10f836b465acf74",
