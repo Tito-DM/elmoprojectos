@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/elmoprojectos/static/css/main.2380ae54.chunk.css",
-    "main.js": "/elmoprojectos/static/js/main.60996c25.chunk.js",
-    "main.js.map": "/elmoprojectos/static/js/main.60996c25.chunk.js.map",
+    "main.css": "/elmoprojectos/static/css/main.235871cc.chunk.css",
+    "main.js": "/elmoprojectos/static/js/main.a223066d.chunk.js",
+    "main.js.map": "/elmoprojectos/static/js/main.a223066d.chunk.js.map",
     "runtime-main.js": "/elmoprojectos/static/js/runtime-main.47b4b538.js",
     "runtime-main.js.map": "/elmoprojectos/static/js/runtime-main.47b4b538.js.map",
     "static/css/2.36020323.chunk.css": "/elmoprojectos/static/css/2.36020323.chunk.css",
-    "static/js/2.dddc46f8.chunk.js": "/elmoprojectos/static/js/2.dddc46f8.chunk.js",
-    "static/js/2.dddc46f8.chunk.js.map": "/elmoprojectos/static/js/2.dddc46f8.chunk.js.map",
+    "static/js/2.673b4433.chunk.js": "/elmoprojectos/static/js/2.673b4433.chunk.js",
+    "static/js/2.673b4433.chunk.js.map": "/elmoprojectos/static/js/2.673b4433.chunk.js.map",
     "index.html": "/elmoprojectos/index.html",
-    "precache-manifest.5951e9c3ee21ac9e02fe2a22654de819.js": "/elmoprojectos/precache-manifest.5951e9c3ee21ac9e02fe2a22654de819.js",
+    "precache-manifest.89cf1f250bc5714f4f77a5f8dbf103df.js": "/elmoprojectos/precache-manifest.89cf1f250bc5714f4f77a5f8dbf103df.js",
     "service-worker.js": "/elmoprojectos/service-worker.js",
     "static/css/2.36020323.chunk.css.map": "/elmoprojectos/static/css/2.36020323.chunk.css.map",
-    "static/css/main.2380ae54.chunk.css.map": "/elmoprojectos/static/css/main.2380ae54.chunk.css.map",
-    "static/js/2.dddc46f8.chunk.js.LICENSE.txt": "/elmoprojectos/static/js/2.dddc46f8.chunk.js.LICENSE.txt",
+    "static/css/main.235871cc.chunk.css.map": "/elmoprojectos/static/css/main.235871cc.chunk.css.map",
+    "static/js/2.673b4433.chunk.js.LICENSE.txt": "/elmoprojectos/static/js/2.673b4433.chunk.js.LICENSE.txt",
     "static/media/Condominio.jpg": "/elmoprojectos/static/media/Condominio.6f0a1496.jpg",
     "static/media/House1.jpg": "/elmoprojectos/static/media/House1.93139695.jpg",
     "static/media/casa.jpg": "/elmoprojectos/static/media/casa.47b2af04.jpg",
@@ -25,6 +25,7 @@
     "static/media/img3.jpg": "/elmoprojectos/static/media/img3.4a3e8140.jpg",
     "static/media/img4.jpg": "/elmoprojectos/static/media/img4.d7a74878.jpg",
     "static/media/img5.jpg": "/elmoprojectos/static/media/img5.7be6d249.jpg",
+    "static/media/logo.jpg": "/elmoprojectos/static/media/logo.deb92bde.jpg",
     "static/media/pic.jpg": "/elmoprojectos/static/media/pic.46a3b4e3.jpg",
     "static/media/resort.jpg": "/elmoprojectos/static/media/resort.6d6dfd12.jpg",
     "static/media/SlideShow.scss": "/elmoprojectos/static/media/slide3.7916ec80.jpg",
@@ -33,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.47b4b538.js",
     "static/css/2.36020323.chunk.css",
-    "static/js/2.dddc46f8.chunk.js",
-    "static/css/main.2380ae54.chunk.css",
-    "static/js/main.60996c25.chunk.js"
+    "static/js/2.673b4433.chunk.js",
+    "static/css/main.235871cc.chunk.css",
+    "static/js/main.a223066d.chunk.js"
   ]
 }
