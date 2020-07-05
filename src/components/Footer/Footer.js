@@ -1,5 +1,6 @@
 import React, { Fragment } from "react";
 import "./Footer.scss";
+import {Link} from "react-router-dom";
 const Footer = () => {
 	return (
 		<Fragment>
@@ -27,21 +28,20 @@ const Footer = () => {
 						</div>
 						<div className="col l4 offset-l2 s12">
 							<ul>
-								<li>
-									<a className="grey-text text-lighten-3" href="#!">
-										Home
-									</a>
-								</li>
-								<li>
-									<a className="grey-text text-lighten-3" href="#!">
-										Seu Projecto
-									</a>
-								</li>
-								<li>
-									<a className="grey-text text-lighten-3" href="#!">
-										Sobre nos
-									</a>
-								</li>
+							<li>
+					<Link to="/" className="grey-text text-lighten-3">
+						Home
+					</Link>
+				</li>
+				
+				<li>
+					<Link to="/seuprojecto"  className="grey-text text-lighten-3">Seu Projecto</Link>
+				</li>
+				
+				<li>
+					<Link to="/about"  className="grey-text text-lighten-3">Sobre Nos</Link>
+				</li>
+								
 							</ul>
 						</div>
 					</div>

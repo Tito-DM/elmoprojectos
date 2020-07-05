@@ -10,7 +10,7 @@ const HomeCardList1 = () => {
 			img: imgCasa,
 			title: "Casas",
 			description:
-				"Notice the use of %PUBLIC_URL% in the tags above It will be replaced with the URL of the `public` folder during the build."
+				"IC_URL% in the tags above It will be replaced with the URL of the `public` folder during the build."
 		},
 		{
 			id: "2B",
